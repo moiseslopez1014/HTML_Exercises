@@ -1,0 +1,19 @@
+aside {
+    text-align: center;
+    border: 2px;
+    border-color: darkgreen;
+    padding: 10px;
+    background-color: grey;
+
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    background-color: darkolivegreen;
+    padding: 10px 10px 10px 12px;
+    text-decoration: wavy;
+    text-align: center;
+}
